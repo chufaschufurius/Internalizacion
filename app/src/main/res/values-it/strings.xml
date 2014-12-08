@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Internalizzazione</string>
+    <string name="action_settings">Settings</string>
+    <string name="textView">Non ci sono elementi da visualizzare</string>
+    <string name="language">La lingua selezionata e italiano</string>
+</resources>

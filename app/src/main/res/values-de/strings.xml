@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Verinnerlichung</string>
+    <string name="action_settings">Settings</string>
+    <string name="textView">Nichts darzustellen</string>
+    <string name="language">Die gewählte Sprache ist Deutsch</string>
+</resources>
